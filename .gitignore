@@ -1,0 +1,13 @@
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+*.log
+.env
+*.part
+*.zip
+*.SAFE/
+raw_zip/
+raw_safe/
+downloads/
+data/
