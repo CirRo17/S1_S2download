@@ -146,3 +146,5 @@ echo $env:CDSE_PASSWORD
 - 解压得到的 `.SAFE`
 
 根目录 `.gitignore` 已经包含这些规则。
+
+学习记录：尝试修改代码并推送到github
